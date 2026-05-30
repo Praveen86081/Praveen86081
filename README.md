@@ -38,8 +38,6 @@
 
 🔭 Java Backend Developer with **2.4 years** of experience
 
-//🏢 Currently at **Cloute Technologies Pvt. Ltd., Bengaluru**
-
 🚀 Building **Microservices** with Spring Boot and Spring Cloud
 
 🔐 Specializing in **JWT Authentication** and RBAC Security
