@@ -227,8 +227,8 @@ public class PraveenM {
 ```
 🧱 AWS Cloud Services   →  EC2, S3, RDS, Lambda, IAM, VPC
 🔭 Spring Cloud         →  Eureka Service Discovery, OpenFeign, API Gateway, Circuit Breaker
-📐 System Design        →  High Availability, Load Balancing, Caching Strategies, CAP Theorem
-🏗️  Architecture        →  Event-Driven Architecture, CQRS, Saga Pattern
+📐 System Design        →  High Availability, Load Balancing, Caching Strategies
+🏗️  Architecture        →  Microservices Architecture, Event-Driven Architecture, Saga Pattern
 🐳 DevOps               →  Docker Compose, Kubernetes basics, CI/CD Pipelines
 ```
 
