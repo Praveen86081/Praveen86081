@@ -22,8 +22,11 @@
  <a href="https://www.credly.com/go/M20eYJ6t">
   <img src="https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS Badge" />
  </a>
-  
- <img src="https://img.shields.io/badge/Location-Puducherry%2C%20India-38BDAE?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
+
+ <a href="https://maps.app.goo.gl/JDiN69gHosfT5ifs8">
+  <img src="https://img.shields.io/badge/Location-Puducherry%2C%20India-38BDAE?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
+ </a>
+ 
 </div>
 
 <br/>
