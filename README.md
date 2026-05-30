@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=praveenmoorthy2001&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/praveenmoorthy2001">
-    <img src="https://img.shields.io/badge/LinkedIn-praveenmoorthy2001-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://komarev.com/ghpvc/?username=Praveen86081&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/Praveen86081">
+    <img src="https://img.shields.io/badge/LinkedIn-Praveen86081-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:praveenmoorthy8608@gmail.com">
     <img src="https://img.shields.io/badge/Email-praveenmoorthy8608%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -101,11 +101,11 @@ public class PraveenM {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=praveenmoorthy2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenmoorthy2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <a href="https://github-readme-stats.vercel.app/api?username=Praveen86081&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveen86081&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenmoorthy2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenmoorthy2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen86081&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen86081&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
@@ -114,7 +114,7 @@ public class PraveenM {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=praveenmoorthy2001&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Praveen86081&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -122,7 +122,7 @@ public class PraveenM {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenmoorthy2001&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen86081&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -130,7 +130,7 @@ public class PraveenM {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveenmoorthy2001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveen86081&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -187,8 +187,8 @@ public class PraveenM {
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [🎫 **Ticketing Management Tool**](https://github.com/praveenmoorthy2001) | Java • Spring Boot • Spring Security • JWT • MySQL • Docker • Redis | Modular monolithic backend for IT service management; supports asset tracking, customer lifecycle, role-based ticket handling, warranty tracking & secure auth |
-| [📋 **Quotation Management System**](https://github.com/praveenmoorthy2001) | Java • Spring Boot • Spring Cloud (Eureka, OpenFeign, API Gateway) • Spring Security • JWT • MySQL • Redis | Full microservices-based system for end-to-end quotation & sales workflows; includes document generation (Invoice, Delivery Challan, E-Way Bill) |
+| [🎫 **Ticketing Management Tool**](https://github.com/Praveen86081) | Java • Spring Boot • Spring Security • JWT • MySQL • Docker • Redis | Modular monolithic backend for IT service management; supports asset tracking, customer lifecycle, role-based ticket handling, warranty tracking & secure auth |
+| [📋 **Quotation Management System**](https://github.com/Praveen86081) | Java • Spring Boot • Spring Cloud (Eureka, OpenFeign, API Gateway) • Spring Security • JWT • MySQL • Redis | Full microservices-based system for end-to-end quotation & sales workflows; includes document generation (Invoice, Delivery Challan, E-Way Bill) |
 
 </div>
 
@@ -238,7 +238,7 @@ public class PraveenM {
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenmoorthy2001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Praveen86081)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenmoorthy8608@gmail.com)
 [![AWS Badge](https://img.shields.io/badge/AWS%20Badge-View%20on%20Credly-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/go/M20eYJ6t)
 
