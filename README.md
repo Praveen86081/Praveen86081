@@ -8,8 +8,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Praveen86081&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/Praveen86081">
-    <img src="https://img.shields.io/badge/LinkedIn-Praveen86081-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/praveenmoorthy2001/">
+    <img src="https://img.shields.io/badge/LinkedIn-Praveen M-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:praveenmoorthy8608@gmail.com">
     <img src="https://img.shields.io/badge/Email-praveenmoorthy8608%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
