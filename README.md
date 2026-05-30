@@ -104,8 +104,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Praveen86081&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" alt="GitHub Stats" />
- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen86081&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Praveen86081&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -120,14 +119,6 @@
 
 <div align="center">
  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen86081&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Praveen86081&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -250,17 +241,13 @@
 
 ## 🌱 Currently Learning
 
-<div align="center">
-
 ```
-☁️ AWS Cloud     →  EC2 | S3 | RDS | Lambda | IAM | VPC
-🌐 Spring Cloud   →  Eureka | OpenFeign | API Gateway | Circuit Breaker
-📐 System Design   →  High Availability | Load Balancing | Caching Strategies
-🏗️ Architecture   →  Event-Driven | CQRS | Saga Pattern
-🐳 DevOps      →  Docker Compose | Kubernetes | CI/CD Pipelines
+🧱 AWS Cloud Services   →  EC2, S3, RDS, Lambda, IAM, VPC
+🔭 Spring Cloud         →  Eureka Service Discovery, OpenFeign, API Gateway, Circuit Breaker
+📐 System Design        →  High Availability, Load Balancing, Caching Strategies
+🏗️  Architecture        →  Microservices Architecture, Event-Driven Architecture, Saga Pattern
+🐳 DevOps               →  Docker Compose, Kubernetes basics, CI/CD Pipelines
 ```
-
-</div>
 
 ---
 
