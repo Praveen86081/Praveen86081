@@ -29,7 +29,7 @@ public class PraveenM {
     private final String name        = "Praveen M";
     private final String location    = "Puducherry, India";
     private final String degree      = "MCA — Pondicherry University (2021–2023)";
-    private final String role        = "Java Backend Developer @ Cloute Technologies";
+    private final String role        = "Java Backend Developer";
     private final String experience  = "2.4 Years";
 
     private final String[] stack = {
