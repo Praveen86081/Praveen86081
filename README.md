@@ -238,7 +238,7 @@ public class PraveenM {
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Praveen86081)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenmoorthy2001/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenmoorthy8608@gmail.com)
 [![AWS Badge](https://img.shields.io/badge/AWS%20Badge-View%20on%20Credly-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/go/M20eYJ6t)
 
